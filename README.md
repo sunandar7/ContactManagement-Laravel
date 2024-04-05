@@ -28,4 +28,3 @@ This project is a contact management system built using Laravel. It allows users
 
 # ContactManagement-Laravel
 Contact Management 
->>>>>>> fd398d30e803175adda0be2b5635453a9aeaf9b3
